@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSCMS.ME.iml" filepath="$PROJECT_DIR$/CSCMS.ME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DNA/DNA.iml" filepath="$PROJECT_DIR$/DNA/DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSequence/FibonacciSequence.iml" filepath="$PROJECT_DIR$/FibonacciSequence/FibonacciSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloElonMusk/HelloElonMusk.iml" filepath="$PROJECT_DIR$/HelloElonMusk/HelloElonMusk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPV4check/IPV4check.iml" filepath="$PROJECT_DIR$/IPV4check/IPV4check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matching/Matching.iml" filepath="$PROJECT_DIR$/Matching/Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternCube/PatternCube.iml" filepath="$PROJECT_DIR$/PatternCube/PatternCube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternRectangle1/PatternRectangle1.iml" filepath="$PROJECT_DIR$/PatternRectangle1/PatternRectangle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternRectangle2/PatternRectangle2.iml" filepath="$PROJECT_DIR$/PatternRectangle2/PatternRectangle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternRectangle3/PatternRectangle3.iml" filepath="$PROJECT_DIR$/PatternRectangle3/PatternRectangle3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternRectangle4/PatternRectangle4.iml" filepath="$PROJECT_DIR$/PatternRectangle4/PatternRectangle4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber1/PrimeNumber1.iml" filepath="$PROJECT_DIR$/PrimeNumber1/PrimeNumber1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveString/RemoveString.iml" filepath="$PROJECT_DIR$/RemoveString/RemoveString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCaseFunction/SwitchCaseFunction.iml" filepath="$PROJECT_DIR$/SwitchCaseFunction/SwitchCaseFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrainBomb/TrainBomb.iml" filepath="$PROJECT_DIR$/TrainBomb/TrainBomb.iml" />
+    </modules>
+  </component>
+</project>
