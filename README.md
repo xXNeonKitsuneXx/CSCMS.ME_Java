@@ -1,2 +1,2 @@
 # CSCMS.ME_Java
-Practicing java.
+Practice doing Java problems in CSCMS [https://cscms.me/]
