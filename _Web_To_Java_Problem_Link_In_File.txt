@@ -1,4 +1,0 @@
-This web is used to practice Java. 
-You can see the problems that I have done according to the number + some Java code that I have written.
-
-https://cscms.me/problem
